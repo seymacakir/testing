@@ -1,4 +1,4 @@
 print("This file was created within RStudion")
 print("and now lives in GitHub ")
 print("check for recording changes 2")
-priny (" what if I changed in here" )
+print (" what if I changed in here" )
